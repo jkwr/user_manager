@@ -1,0 +1,19 @@
+{
+  "name": "user_manager",
+  "version": "0.0.1",
+  "description": "user manager hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jevell rollins",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "method-override": "^2.3.9",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
